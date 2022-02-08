@@ -1,0 +1,44 @@
+body {
+	margin: 0; /* Remove body margins */
+}
+
+.bg {
+	background-color: #e60965;
+}
+.happy {
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+
+.first-container {
+	background-image: url('https://cdn.dribbble.com/users/1804127/screenshots/15097797/media/f02fb82cc2f75aa588edd701a21fafe4.jpg?compress=1&resize=1600x1200&vertical=top');
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 490px;
+	height: 370px;
+	margin: auto;
+}
+
+.second-container {
+	background-image: url('https://cdn.dribbble.com/users/1199152/screenshots/15098853/media/eb2245350c9fbe719e1cfa07cbb9516f.gif');
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 490px;
+	height: 370px;
+	margin: auto;
+}
+
+.third-container {
+	background-image: url('https://cdn.dribbble.com/users/791530/screenshots/15055698/media/dc450949c089d4709c9c7cba724aa327.png?compress=1&resize=1600x1200&vertical=top');
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 490px;
+	height: 370px;
+	margin: auto;
+}
+
+.slides {
+	padding-bottom: 50px;
+	margin: auto;
+}
